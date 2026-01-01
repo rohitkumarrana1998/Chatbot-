@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_GET['ai'])) {
     }
 
     // TODO: yahan apna real API key daalo
-    $apiKey = 'hfU3NZHtxf7xf8emWbUR5T3BlbkFJnC9yMh9KQm9l7KLcqdaKPgbuudYbhyjVXyPzYbHQcKu-OUJ2oLg15CB7rybujLVTONOcPdh-IA';
+    $apiKey = 'DUMMY_API';
 
     // ---- System prompt banana ----
     if ($lang === 'hi') {
